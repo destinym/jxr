@@ -1,0 +1,35 @@
+#down_line{
+height: 4px;
+border-bottom: 1px solid #000;
+margin:0px 0px 50px 0px;
+}
+
+.sub_title{
+font-weight:bold;
+margin:0px 0px 10px 0px;
+}
+
+.sub_content{
+font-weight:normal;
+margin:0px 0px 50px 0px;
+}
+.details{
+clear:both;
+}
+
+.details_title{
+float: left;
+width:100px;
+background:#000;
+color:#fff;
+font-size:20px;
+margin:0px 0px 10px;
+text-align:center;
+}
+
+.details_content{
+float:left;
+font-size:15px;
+text-align:center;
+margin:5px 0px 0px 15px;
+}

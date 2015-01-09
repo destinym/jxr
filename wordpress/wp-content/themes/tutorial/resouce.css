@@ -1,0 +1,31 @@
+.line{
+height: 4px;
+border-bottom: 1px solid #000;
+margin:0px 0px 0px 0px;
+}
+
+.body1{
+float:left;
+}
+
+
+
+.body_title1{
+font-weight:bold;
+margin:10px 0px 10px 0px;
+color:rgb(140, 196, 236);
+}
+
+.body_title2{
+font-weight:bold;
+margin:20px 0px 20px 0px;
+color:black;
+}
+
+.company_logo{
+margin:0px 0px 0px 20px;
+}
+.content{
+clear:both;
+}
+
