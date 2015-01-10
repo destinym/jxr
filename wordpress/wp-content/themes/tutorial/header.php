@@ -49,7 +49,7 @@
 	</div>
 	<div class="nav_second">
 	   <div class= "nav_webname_second">
-	  <img  id ="name1" src="/wordpress/wp-content/themes/tutorial/images/name1.jpg" height=28 ></img>
+	  <img  id ="name1" src="/wp-content/themes/tutorial/images/name1.jpg" height=28 ></img>
 	   </div>
 	   <div class="nav_second_ul">
 			<ul >
@@ -66,7 +66,7 @@
 	<div class="Clear"></div>
 	<div class="nav_third">
 		<div class= "nav_webname_third">
-			<img id = "name2" src="/wordpress/wp-content/themes/tutorial/images/name2.jpg" height=22  ></img>
+			<img id = "name2" src="/wp-content/themes/tutorial/images/name2.jpg" height=22  ></img>
 		</div>
 		<div class="nav_third_ul">
 			<ul>

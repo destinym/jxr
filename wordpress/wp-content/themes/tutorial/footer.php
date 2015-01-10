@@ -28,7 +28,7 @@
 
 	 
 	 <div class = "footer_right">
-	 <img><img src="/wordpress/wp-content/themes/tutorial/images/jieshirui.jpg" height=75 width=155> </img>
+	 <img><img src="/wp-content/themes/tutorial/images/jieshirui.jpg" height=75 width=155> </img>
 	 </div>
 	 
 	 <div class ="footer_buttom">
