@@ -45,37 +45,26 @@
 <body>
 
 <div class="nav">
-	<div class="nav_first">
-	</div>
-	<div class="nav_second">
-	   <div class= "nav_webname_second">
-	  <img  id ="name1" src="/wp-content/themes/tutorial/images/name1.jpg" height=28 ></img>
+  <div class="nav2">
+	   <div class= "nav_logo">
+	  <img  id ="name1" src="/wp-content/themes/tutorial/images/logo.png"></img>
 	   </div>
-	   <div class="nav_second_ul">
-			<ul >
-				<li><a href="#">首页</a></li>
-				<li><a href="#">作品案例</a></li>
-				<li><a href="#">杰理念</a></li>
-				<li><a href="#">资源平台</a></li>
-				<li><a href="#">关于杰兴瑞</a></li>
-				<li><a href="#">招聘</a></li>
-				<li><a href="#">联系</a></li>
-			</ul>
+	   <div class="nav_menu1">
+				<span class="m1"><a href="#">首页</a></span>
+				<span class="m1"><a href="#">作品案例</a></span>
+				<span class="m1"><a href="#">杰理念</a></span>
+				<span class="m1"><a href="#">资源平台</a></span>
+				<span class="m1"><a href="#">关于杰兴瑞</a></span>
+				<span class="m1"><a href="#">招聘</a></span>
+				<span class="m1"><a href="#">联系</a></span>
+
 	   </div>
-	</div>
-	<div class="Clear"></div>
-	<div class="nav_third">
-		<div class= "nav_webname_third">
-			<img id = "name2" src="/wp-content/themes/tutorial/images/name2.jpg" height=22  ></img>
-		</div>
-		<div class="nav_third_ul">
-			<ul>
-				<li><a href="#">品牌策划</a></li>
-				<li><a href="#">品牌形象设计</a></li>
-				<li><a href="#">画册设计</a></li>
-				<li><a href="#">包装设计</a></li>
-				<li><a href="#">网站设计</a></li>
-			</ul>
+		<div class="nav_menu2">
+				<span class="m2"><a href="#">品牌策划</a></span>
+				<span class="m2"><a href="#">品牌形象设计</a></span>
+				<span class="m2"><a href="#">画册设计</a></span>
+				<span class="m2"><a href="#">包装设计</a></span>
+				<span class="m2"><a href="#">网站设计</a></span>
 		</div>
 	</div>
 </div>

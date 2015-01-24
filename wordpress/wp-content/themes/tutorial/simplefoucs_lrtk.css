@@ -1,0 +1,8 @@
+img { border: 0px; }
+.bannerbox { width: 980px; height: 465px; }
+#focus { width: 980px; height: 465px; clear: both; overflow: hidden; position: relative; float: left; }
+    #focus ul { width: 980px; height: 465px; float: left; position: absolute; clear: both; padding: 0px; margin: 0px; }
+        #focus ul li { float: left; width: 980px; height: 465px; overflow: hidden; position: relative; padding: 0px; margin: 0px; }
+    #focus .preNext { width: 540px; height: 465px; position: absolute; top: 0px; cursor: pointer; }
+    #focus .pre { left: 0; background: url(../fimg/sprite.png) no-repeat left center; }
+    #focus .next { right: 0; background: url(../fimg/sprite1.png) no-repeat right center; }
