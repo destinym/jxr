@@ -42,7 +42,7 @@
 
 </head>
 
-<body>
+<body class="body">
 
 <div class="nav">
   <div class="nav2">
