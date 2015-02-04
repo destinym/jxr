@@ -50,13 +50,13 @@
 	  <img  id ="name1" src="/wp-content/themes/tutorial/images/logo.png"></img>
 	   </div>
 	   <div class="nav_menu1">
-				<span class="m1"><a href="#">首页</a></span>
+				<span class="m1"><a href="/">首页</a></span>
 				<span class="m1"><a href="#">作品案例</a></span>
-				<span class="m1"><a href="#">杰理念</a></span>
-				<span class="m1"><a href="#">资源平台</a></span>
-				<span class="m1"><a href="#">关于杰兴瑞</a></span>
-				<span class="m1"><a href="#">招聘</a></span>
-				<span class="m1"><a href="#">联系</a></span>
+				<span class="m1"><a href="/?page_id=26">杰理念</a></span>
+				<span class="m1"><a href="/?page_id=22">资源平台</a></span>
+				<span class="m1"><a href="/?page_id=20">关于杰兴瑞</a></span>
+				<span class="m1"><a href="/?page_id=24">招聘</a></span>
+				<span class="m1"><a href="/?page_id=28">联系</a></span>
 
 	   </div>
 		<div class="nav_menu2">
