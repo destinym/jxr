@@ -1,0 +1,48 @@
+.aboutimg{
+margin:20px 0px 0px 0px;
+}
+
+.sub_title{
+font-size:12px;
+FONT-FAMILY: Arial;
+/*font-weight:bold;*/
+margin:22px 0px 0px 0px;
+}
+
+.sub_content{
+font-size:12px;
+FONT-FAMILY: Arial;
+margin:0px 0px 0px 0px;
+line-height:20px;
+color:#898989;
+}
+
+.detailItem{
+margin:22px 0px 0px 0px;
+}
+.details{
+font-size:12px;
+FONT-FAMILY: Arial;
+clear:both;
+}
+
+.details_title{
+float: left;
+width:100px;
+background:#000;
+color:#fff;
+/*font-size:20px;*/
+margin:12px 15px 0px 0px;
+text-align:center;
+font-size:12px;
+FONT-FAMILY: Arial;
+}
+
+.details_content{
+float:left;
+/*font-size:15px;*/
+text-align:center;
+margin:12px 15px 0px 0px;
+font-size:12px;
+FONT-FAMILY: Arial;
+}
